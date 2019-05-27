@@ -15,4 +15,4 @@ blog
 
 欢迎捐赠一杯咖啡，谢谢！
 
-<img src="[链接](https://github.com/hotwheelsBo/blog/blob/master/thankyou.png)" width="180" height="180" alt="thankyou">
+![image](https://github.com/hotwheelsBo/blog/blob/master/thankyou.png)
