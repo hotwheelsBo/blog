@@ -14,4 +14,5 @@ blog
 开发不易，感兴趣的朋友可以一起交流一下！
 
 欢迎捐赠一杯咖啡，谢谢！
-![image](https://github.com/hotwheelsBo/blog/blob/master/thankyou.png)
+
+<img src="[链接](https://github.com/hotwheelsBo/blog/blob/master/thankyou.png)" width="180" height="180" alt="thankyou">
